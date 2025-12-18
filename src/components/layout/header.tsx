@@ -38,8 +38,8 @@ export default function Header() {
             <Image 
               src="/AWT-logo.jpeg"
               alt="Airwing Technologies Logo"
-              width={90}
-              height={20} />
+              width={180}
+              height={40} />
           </Link>
           <nav className="flex items-center justify-center mt-4 lg:mt-0">
             <div className="flex flex-wrap justify-center items-center space-x-1 md:space-x-2">
