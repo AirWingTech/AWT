@@ -33,7 +33,7 @@ export default function Header() {
         scrolled ? "bg-background/90 shadow-md backdrop-blur-sm" : "bg-gradient-to-b from-black/70 to-transparent"
       )}>
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex lg:flex-row flex-col items-center justify-between lg:h-24 py-3 lg:py-0">
+        <div className="flex lg:flex-row flex-col items-center justify-between lg:h-28 py-3 lg:py-0">
           <Link href="/" className="flex items-center">
             <Image 
               src="/AWT-logo.jpeg"
